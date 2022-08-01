@@ -16,5 +16,4 @@ public class GenerateIntegers1to100 {
             System.out.println (a[i]);
         }
     }
-    
 }
